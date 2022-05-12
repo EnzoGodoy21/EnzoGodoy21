@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qasqw2prsnluzdjq4x6jkndmqu&cover_image=true&theme=novatorem&bar_color=a600ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qasqw2prsnluzdjq4x6jkndmqu&redirect=true)
 
 <!--
 **EnzoGodoy21/EnzoGodoy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
