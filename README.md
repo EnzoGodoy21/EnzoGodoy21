@@ -8,7 +8,7 @@
 
 <h2 align="center">:closed_book: About Me :pencil2:</h2>
 
-- :adult: My name is Enzo and i'm 19 years old
+- :adult: My name is Enzo and i'm 20 years old
   
 - :house_with_garden: I'm Brazillian and i live in São Paulo
   
