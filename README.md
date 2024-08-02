@@ -36,6 +36,6 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qasqw2prsnluzdjq4x6jkndmqu&cover_image=true&theme=default&bar_color=a600ff&bar_color_cover=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qasqw2prsnluzdjq4x6jkndmqu&cover_image=true&theme=default&bar_color=a600ff&bar_color_cover=false" /></div>
     
 </td></tr></table>  
